@@ -1,19 +1,53 @@
 {
   "status": "active",
   "message": "Welcome Premium 🚀",
-
   "users": {
     "key1": {
-      "start": "2026-03-29 15:01:00",
-      "type": "minutes",
-      "value": 1
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
     },
     "key2": {
-      "start": "2026-03-29 10:00:00",
-      "type": "hours",
-      "value": 1
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
     },
     "key3": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key4": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key5": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key6": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key7": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key8": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key9": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    },
+    "key10": {
       "start": "2026-03-29 00:00:00",
       "type": "days",
       "value": 3
