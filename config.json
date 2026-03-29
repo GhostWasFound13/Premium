@@ -1,17 +1,22 @@
 {
   "status": "active",
+  "message": "Welcome Premium 🚀",
+
   "users": {
-    "alpha123": "2026-03-29",
-    "beta456": "2026-03-29",
-    "gamma789": "2026-03-29",
-    "delta111": "2026-03-29",
-    "omega999": "2026-03-29",
-    "vip001": "2026-03-29",
-    "vip002": "2026-03-29",
-    "vip003": "2026-03-29",
-    "trial001": "2026-03-29",
-    "trial002": "2026-03-29"
-  },
-  "duration_days": 3,
-  "message": "✅ Premium Active (3 Days Access)"
+    "key1": {
+      "start": "2026-03-29 10:00:00",
+      "type": "minutes",
+      "value": 5
+    },
+    "key2": {
+      "start": "2026-03-29 10:00:00",
+      "type": "hours",
+      "value": 1
+    },
+    "key3": {
+      "start": "2026-03-29 00:00:00",
+      "type": "days",
+      "value": 3
+    }
+  }
 }
