@@ -1,0 +1,46 @@
+{
+  "status": "active",
+  "message": "Welcome Premium 🚀",
+  "users": {
+    "GHOST-AX92-K01": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GHOST-PL88-M42": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GHOST-TR11-Q09": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GHOST-NK55-V12": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GHOST-ZW33-B66": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GHOST-HY01-L99": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GHOST-XP07-S21": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 7
+    },
+    "GhostIScool": {
+      "start": "2026-05-01 07:38:00",
+      "type": "days",
+      "value": 0.00625
+    }
+  }
+}
