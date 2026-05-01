@@ -2,54 +2,15 @@
   "status": "active",
   "message": "Welcome Premium 🚀",
   "users": {
-    "key1": {
-      "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key2": {
-      "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key3": {
-      "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key4": {
-      "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key5": { "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key6": {
-      "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key7": {
-      "start": "2026-05-01 07:26:54",
-      "type": "days",
-      "value": 7
-    },
-    "key8": {
-      "start": "2026-05-01 07:14:54",
-      "type": "days",
-      "value": 0.00833
-    },
-    "key9": {
-      "start": "2026-03-29 00:00:00",
-      "type": "days",
-      "value": 3
-    },
-    "key10": {
-      "start": "2026-03-29 00:00:00",
-      "type": "days",
-      "value": 3
-    }
+    "key1": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key2": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key3": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key4": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key5": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key6": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key7": { "start": "2026-05-01 07:26:54", "type": "days", "value": 7 },
+    "key8": { "start": "2026-05-01 07:14:54", "type": "days", "value": 0.00833 },
+    "key9": { "start": "2026-03-29 00:00:00", "type": "days", "value": 3 },
+    "key10": { "start": "2026-03-29 00:00:00", "type": "days", "value": 3 }
   }
 }
